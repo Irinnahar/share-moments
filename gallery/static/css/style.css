@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #202123;
+    color: white;
+}
+a.navbar-brand{
+    font-family: 'Satisfy', cursive;
+}
+.bg-dark {
+    background-color: black!important;
+    border-bottom: .1px solid #524b4b;
+}
+/* footer */
+.footer {
+    padding: 8px;
+    font-size: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: ghostwhite;
+    text-align: center;
+    border-top: .1px solid #524b4b;
+}
